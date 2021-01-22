@@ -1,6 +1,7 @@
-language: php
+os: windows
+language: node_js
 rvm:
- - php
+ - "15"
 
 # language: node_js
 # os: windows
