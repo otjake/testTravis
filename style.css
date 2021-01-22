@@ -1,0 +1,65 @@
+
+a{
+    color: #82A0BC;
+    text-decoration: none;
+}
+
+.headings {
+    font-size: 1.5em;
+    font-family: 'IBM Plex Sans',Helvetica,sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.headings:hover {
+    color: #82A0BC;
+}
+
+.nav-links li{
+    display: block;
+    text-decoration: none;
+    color: #82A0BC;
+    position: relative;
+    margin-right: 15px;
+    font-family: Arial,sans-serif;
+
+}
+
+i{
+    font-family: 'Vollkorn',serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+i time{
+    color: #63ADF2;
+}
+
+.postBody{
+    color: #555;
+    font-family: 'Vollkorn',serif;
+    font-size: 19.2px;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+.PostsList li{
+    list-style: none;
+}
+
+.PostsList li a{
+    color: #82A0BC;
+    text-decoration: none;
+}
+
+.site-footer {
+    padding: 0 0 20px 0;
+    margin-top: 30px;
+}
+
+.bottom {
+    font-size: .8em;
+    color: #999;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
